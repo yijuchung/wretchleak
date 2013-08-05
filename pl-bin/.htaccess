@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteCond %{HTTP_REFERER} !^$
+RewriteCond %{HTTP_REFERER} !^http://(www\.)?mmnet.iis.sinica.edu.tw.*$ [NC]
+RewriteRule \.$ http://mmnet.iis.sinica.edu.tw/ [R,L]

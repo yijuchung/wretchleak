@@ -1,0 +1,358 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta http-equiv="imagetoolbar" content="no"/>
+<link rel="shortcut icon" type="image/x-icon" href="http://l.yimg.com/e/icon/favicon.ico" />
+<title>pimpboy728's User - WRETCH</title>
+
+<link rel="stylesheet" href="http://f6.wretch.yimg.com/pimpboy728/files/user.css?1225265253" type="text/css"/>
+<link rel="stylesheet" href="http://l.yimg.com/e/serv/user/css/font.css" type="text/css"/>
+
+<script type="text/javascript" src="http://l.yimg.com/e/serv/user/js/func_user.js"></script>
+<script src="http://l.yimg.com/e/serv/common/js/swfobject.js" type="text/javascript"></script>
+
+
+<script language="JavaScript">
+  var ysmrubyctxtID = "wretch_tw_photo_ron_001";
+  var ysmrubyPartner = "wretch_tw_profile_ron_cm";
+</script>
+  </head>
+
+
+<body  >
+<style>
+  #Wretch-haha, #Wretch-haha-spacer, #Wretch-haha table, #Wretch-haha table tbody, #Wretch-haha table tbody tr, #Wretch-haha table tbody tr td, #Wretch-haha table tbody tr td a, #Wretch-haha table tbody tr td div, #Wretch-haha table tbody tr td div span, #Wretch-haha table tbody tr td div span a, #Wretch-haha table tbody tr td input{padding:0; margin:0;  visibility:visible !important; opacity:1 !important; clip:rect(auto, auto, auto, auto) !important; line-height:20px !important; font-size:12px !important; width:auto !important; text-align:left !important}
+
+  #Wretch-haha-spacer{height:20px}
+  #Wretch-haha{ background:#EEEDDD; height:20px; position:absolute; top:0 !important; right:0 !important;  z-index:50000; padding-right:5px; font-family:arial; font-size:12px; width:200% !important}
+  #Wretch-haha img{border:none; position:static !important}
+  #Wretch-haha table{display:table !important; background:#EEEDDD !important}
+  #Wretch-haha table tbody{display: table-row-group}
+  #Wretch-haha table tbody tr{display:table-row !important}
+  #Wretch-haha table tbody tr td{display:table-cell !important}
+  #Wretch-haha-spacer, #Wretch-haha table tbody tr td div, #Wretch-haha table tbody tr td div span a{display:block !important}
+  #Wretch-haha table tbody tr td a, #Wretch-haha table tbody tr td span a, #Wretch-haha table tbody tr td input{display:inline}
+  #Wretch-haha table tr td div{color:#ccc}
+
+
+  #Wretch-haha a{text-decoration:none; color:#000; background: transparent; cursor:pointer; font-weight:normal}
+  #Wretch-haha a:hover{text-decoration:underline}
+  #Wretch-haha table{height:20px}
+  #Wretch-haha td{color:#ccc}
+  #Wretch-haha input{border:none; height:16px}
+  #Wretch-haha .Wretch-haha-text{width:100px !important; background:#fff; color:#666; font-size:11px; padding:0 5px 0 2px}
+  #Wretch-haha .Wretch-haha-submit{width:16px !important; background:transparent url(http://l.yimg.com/e/serv/common/img/zoom.gif) no-repeat; cursor:pointer}
+  #Wretch-haha-menubar {position:relative; z-index:50001}
+  #Wretch-haha-menubar span{position:absolute; top:16px; left:2px; width:93px; background-color:#EEEDDD; display:none; border:1px solid #ccc}
+  #Wretch-haha table #Wretch-haha-menubar a {margin: 0 5px; white-space:nowrap}
+</style>
+
+<div id="Wretch-haha-spacer">&nbsp;</div>
+<div id="Wretch-haha">
+<table align="right" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr>
+          <td>
+        <!-- here needs another div, 'coz td can't be position:relatve in fF-->
+        <div id="Wretch-haha-menubar">
+                <a href="/">Wretch▼</a>
+                          <span>
+                                    <a href="/album/">Album</a>
+                                    <a href="/blog/">Blog</a>
+                                    <a href="/video/">Video</a>
+                                    <a href="/digu/">Digu</a>
+                        <a href="http://tw.yahoo.com">Yahoo!Kimo</a>
+            <a href="http://tw.help.cc.yahoo.com/help_cp.html?product=53">Help Page</a>
+          </span>
+        </div>
+      </td>
+      <td><a href="http://www.wretch.cc/IDintegration/?ref=%2525252Fuser%2525252Fpimpboy728" style="margin:0 5px">Login</a></td>
+      <td><a href="http://www.wretch.cc/IDintegration/new_signup.php" style="margin: 0 5px 0 2px">Free Sign Up</a></td>
+                      <form action="http://www.wretch.cc/svcs/findfriend/group.php" name="searchForm" method="get">
+        <input type="hidden" name="tab" value="findfriend" />
+        <input type="hidden" name="pg" value="1" />
+        <td><input type="text" class="Wretch-haha-text" id="Wretch-haha-query-text" name="petname" value="找朋友" /></td>
+        <td><input type="submit" class="Wretch-haha-submit" value="" /></td>
+        </form>
+              </tr>
+  </tbody>
+</table>
+</div>
+<script>
+(function(){
+  var menuBar = document.getElementById('Wretch-haha-menubar');
+  var query = document.getElementById('Wretch-haha-query-text');
+  if(query){
+    query.onfocus = function() {
+      if(this.value == '找相簿' || this.value == '找文章' || this.value == '找影音' || this.value == '找朋友')
+        this.value = '';
+    }
+  }
+
+  menuBar.onmouseover = function(){
+    menuBar.getElementsByTagName('span')[0].style.display = 'block';  
+  }
+  menuBar.onmouseout = function(){
+    menuBar.getElementsByTagName('span')[0].style.display = 'none'; 
+  }
+})()
+</script>
+
+<div id="bigcontainer" style="position: relative !important; zoom:1 !important;" >
+
+<div id="ad_banner" align="center">
+<!--RAW TW 20040428--><IFRAME ALLOWTRANSPARENCY=TRUE FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=728 HEIGHT=90 SRC="http://ad.yieldmanager.com/st?ad_type=iframe&ad_size=728x90&site=155858&section_code=13187307&cb=1236933422223102&yrc=&ycg=&yyob=&pub_redirect_unencoded=1&pub_redirect=http://tw.ard.yahoo.com/SIG=15seqdi83/M=717272.13187307.13362723.10434026/D=tw_kwretch/S=2022137557:N/Y=KIMO/EXP=1236940622/L=bZQyBsu8zFWA9_nWcua2aUJjjG0WWEm6Gy4AAp6B/B=5S0ka8u8x58-/J=1236933422223102/K=2zdRhUlIWwiTCdFDnzEyDw/A=5229408/R=0/*"></IFRAME><!--RAW TW 20040428--><script language=javascript>
+if(window.yzq_d==null)window.yzq_d=new Object();
+window.yzq_d['5S0ka8u8x58-']='&U=13dhoob8g%2fN%3d5S0ka8u8x58-%2fC%3d717272.13187307.13362723.10434026%2fD%3dN%2fB%3d5229408%2fV%3d1';
+</script><noscript><img width=1 height=1 alt="" src="http://row.bc.yahoo.com/b?P=bZQyBsu8zFWA9_nWcua2aUJjjG0WWEm6Gy4AAp6B&T=149tdjnja%2fX%3d1236933422%2fE%3d2022137557%2fR%3dtw_kwretch%2fK%3d5%2fV%3d2.1%2fW%3dHR%2fY%3dKIMO%2fF%3d321002656%2fQ%3d-1%2fI%3d1%2fS%3d1%2fJ%3dE1CCBCCB&U=13dhoob8g%2fN%3d5S0ka8u8x58-%2fC%3d717272.13187307.13362723.10434026%2fD%3dN%2fB%3d5229408%2fV%3d1"></noscript></div>
+<div id="container" align="center">
+
+<table width="600" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+        <td>
+    <div id="banner">
+    <a href=""  >♥戀愛ING♥</a>
+    <br/>
+    <span class="description"  >♀HAPPY♂ </span>
+    </div>
+  </td>
+
+  </tr>
+  <tr>
+    <td>
+    <font class="small-c">
+      [ pimpboy728's      <a id="linkMypage" href="/mypage/pimpboy728">MyPage</a><span>&nbsp;&nbsp;|&nbsp;</span>
+      <a id="linkAlbum" href="/album/pimpboy728">Album</a><span>&nbsp;&nbsp;|&nbsp;</span>
+      <a id="linkBlog" href="/blog/pimpboy728">Blog</a><span>&nbsp;&nbsp;|&nbsp;</span>
+      <a id="linkGbook" href="/guestbook/pimpboy728">Guestbook</a><span>&nbsp;&nbsp;|&nbsp;</span>
+      <a id="linkUser" href="/user/pimpboy728">User</a><span>&nbsp;&nbsp;|&nbsp;</span>
+      <a id="linkFriend" href="/friend/pimpboy728">Friend</a><span>&nbsp;&nbsp;|&nbsp;</span> 
+      <a id="linkVideo" href="/video/pimpboy728">Video</a> 
+      ]
+    </font>
+
+    <span class="small-c">
+<select id="friendlist" name="friendlist" onChange="MeetFriend('/user/', this);">
+  <option>- My Friends -</option>
+
+                      <option value="a469344">a469344</option>
+              <option value="alec6h">alec6h</option>
+              <option value="alison781129">alison781129(qb未婚妻)</option>
+              <option value="aya0614">aya0614</option>
+              <option value="CaliCecilia">CaliCecilia</option>
+              <option value="ebby">ebby</option>
+              <option value="evarainbow">evarainbow</option>
+              <option value="favoritenana">favoritenana</option>
+              <option value="g83vul6j86">g83vul6j86</option>
+              <option value="geu311">geu311</option>
+              <option value="ginmy1229">ginmy1229(認４好久的４０２)</option>
+              <option value="happy7800">happy7800</option>
+              <option value="hhh790818">hhh790818(男生的寶貝)</option>
+              <option value="honeynong">honeynong</option>
+              <option value="jennyfly">jennyfly(小妹＝　＝)</option>
+              <option value="jjuulie">jjuulie(^^)</option>
+              <option value="joyce1231m">joyce1231m</option>
+              <option value="jrimage97801">jrimage97801</option>
+              <option value="kathleen510">kathleen510</option>
+              <option value="kinazmj">kinazmj</option>
+              <option value="landy0416081">landy0416081</option>
+              <option value="lovecandy14">lovecandy14</option>
+              <option value="lovemarcie">lovemarcie</option>
+              <option value="luxyhair">luxyhair</option>
+              <option value="meow1121">meow1121(妹)</option>
+              <option value="minorir">minorir</option>
+              <option value="miyako27">miyako27(dai dai)</option>
+              <option value="neeshami">neeshami(大姐姐的妹妹)</option>
+              <option value="omi703024">omi703024</option>
+              <option value="orangecuteyi">orangecuteyi</option>
+              <option value="phoebe0927">phoebe0927</option>
+              <option value="puma456">puma456</option>
+              <option value="q00379">q00379(米果)</option>
+              <option value="queenapink">queenapink</option>
+              <option value="queeninggirl">queeninggirl</option>
+              <option value="rineybaby">rineybaby</option>
+              <option value="sandy1228">sandy1228</option>
+              <option value="siawase1987">siawase1987</option>
+              <option value="sin613">sin613</option>
+              <option value="smac1111">smac1111</option>
+              <option value="starmoon7">starmoon7</option>
+              <option value="vivian520">vivian520(微微安)</option>
+              <option value="viviangella">viviangella</option>
+              <option value="yidaorange">yidaorange</option>
+              <option value="yingchen23">yingchen23(死小鬼．．．)</option>
+              <option value="yuhan0803">yuhan0803</option>
+            </select>
+    </span>
+    <br/>
+    <span class="boxAddFriendLink">[<a class='small-c' href="../album/addfriend.php?uid=pimpboy728">Add to Friend List</a>]</span>
+        </td>
+  </tr>
+</table>
+
+<table width="600" border="0" cellpadding="0" cellspacing="1">
+     <tr>
+       <td class="sidetitle" align="center" colspan="2" id="sidetitle_img">
+         <table border="1">
+           <tr>
+             <td>
+               <img style="display:none;" onLoad="determin_image_size(this,400,300)"  name="img[]" src="http://cover.wretch.cc/pimpboy728.jpg?9"/>
+             </td>
+           </tr>
+         </table>
+       </td>
+     </tr>
+     <tr>
+       <td class="sidetitle" align="right">Nickname:</td>
+       <td class="side" width="450"  >
+          吐司～ &nbsp;
+       </td>
+     </tr>
+     <tr>
+       <td class="sidetitle" align="right">Gender:</td>
+       <td class="side" width="450"  >
+          Male &nbsp;
+       </td>
+     </tr>
+     <tr>
+       <td class="sidetitle" align="right">Blood type:</td>
+       <td class="side" width="450"  >
+          O滴 &nbsp;
+       </td>
+     </tr>
+     <tr>
+       <td class="sidetitle" align="right">Height:</td>
+       <td class="side" width="450"  >
+          191 &nbsp;
+       </td>
+     </tr>
+     <tr>
+       <td class="sidetitle" align="right">Weight:</td>
+       <td class="side" width="450"  >
+          72 &nbsp;
+       </td>
+     </tr>
+     <tr>
+       <td class="sidetitle" align="right">Education:</td>
+       <td class="side" width="450"  >
+          ＳｃｈＯＯＬ～學歷忘在學校沒拿 &nbsp;
+       </td>
+     </tr>
+     <tr>
+       <td class="sidetitle" align="right">Occupation:</td>
+       <td class="side" width="450"  >
+          學生~ＢａＲｔｅｎＤＥＲ~ＭｏｄｅＬｉｎｇ～   &nbsp;
+       </td>
+     </tr>
+     <tr>
+       <td class="sidetitle" align="right">Hobby:</td>
+       <td class="side" width="450"  >
+          Ｓｌｅｅｐｉｎｇ～～寫小說～  &nbsp;
+       </td>
+     </tr>
+     <tr>
+       <td class="sidetitle" align="right">Favorite:</td>
+       <td class="side" width="450"  >
+          大概就是不討厭的吧 &nbsp;
+       </td>
+     </tr>
+     <tr>
+       <td class="sidetitle" align="right">Dislike:</td>
+       <td class="side" width="450"  >
+          一切不喜歡的＝　＝像是不讓我睡覺＝　＝ &nbsp;
+       </td>
+     </tr>
+     <tr>
+       <td class="sidetitle" align="right">Introduction:</td>
+       <td class="side" width="450"  >
+          哈囉～我是一隻愛睡覺的獅子
+沒有殺傷力～所以歡迎作朋友囉～︿︿ &nbsp;
+       </td>
+     </tr>
+   </table>
+ </div>
+
+<!-- bottom part -->
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr>
+    <td align="center" valign="bottom">
+    </td>
+  </tr>
+</table>
+
+
+<!---->
+<!---->
+<!---->
+<!---->
+<!--
+你不應該看到此頁內容哦<br />
+妳.不.應.該.看.到.此.頁.內.容.哦<br />
+您..不..應..該..看..到..此..頁..內..容..哦<br />
+他,不,應,該,看,到,此,頁,內,容,哦<br />
+You should not see this page ... <br />
+yOU.shouLd.Not.sEe.tHis.pAge ... <br />
+I,sHOULD,noT seE This pagE ... <br />
+<br />
+如果你看到了本頁怎麼辦? <Br />
+如.果.你.看.到.了.本.頁.怎.麼.辦? <Br />
+如,果,你,看,到,了,本,頁,怎,麼,辦? <Br />
+<br />
+這表示你的輸入內容語法有錯<br />
+這.表.示.你.的.輸.入.內.容.語.法.有.錯<br />
+這,表,示,你,的,輸,入,內,容,語,法,有,錯,哦<br />
+<br />
+可能的錯誤如下:<br />
+可.能.的.錯.誤.如.下:<br />
+<br />
+1.相簿描述有用到語法，然後語法錯誤<br />
+1.相.簿.描.述.有.用.到.語.法.，.然.後.語.法.錯.誤.<br />
+<br /> 
+2.網誌描述有用到語法，然後語法錯誤<br />
+2.網誌BLOG.描.述.有.用.到.語.法.，.然.後.語.法.錯.誤.<br />
+<br /> 
+3.留言版描述有用到語法，然後語法錯誤<br />
+3.留.言.版.描.述.有.用.到.語.法.，.然.後.語.法.錯.誤.<br />
+<br /> 
+4.個人資料描述有用到語法，然後語法錯誤<br />
+4.個.人.資.料.描.述.有.用.到.語.法.，.然.後.語.法.錯.誤.<br />
+<br /> 
+1.那要怎麼辦??<br />
+2.那要怎麼辦??<br />
+3.那要怎麼辦??<br />
+4.那要怎麼辦??<br />
+5.那要怎麼辦??<br />
+6.那要怎麼辦??<br />
+7.那要怎麼辦??<br />
+8.那要怎麼辦??<br />
+9.那要怎麼辦??<br />
+<br />
+1.請進入還原王, http://www.wretch.cc/recover <br />
+2.請進入還原王, http://www.wretch.cc/recover <br />
+3.請進入還原王, http://www.wretch.cc/recover <br />
+4.請進入還原王, http://www.wretch.cc/recover <br />
+5.請進入還原王, http://www.wretch.cc/recover <br />
+6.請進入還原王, http://www.wretch.cc/recover <br />
+7.請進入還原王, http://www.wretch.cc/recover <br />
+8.請進入還原王, http://www.wretch.cc/recover <br />
+9.請進入還原王, http://www.wretch.cc/recover <br />
+<br />
+1.把該項錯誤的語法清空即可<br />
+2.把該項錯誤的語法清空即可<br />
+3.把該項錯誤的語法清空即可<br />
+4.把該項錯誤的語法清空即可<br />
+5.把該項錯誤的語法清空即可<br />
+<br />
+<br />
+-->
+  <script id="bcw" type="text/javascript">var random_num=Math.random();document.write("<img style=\"display:none;\" width=1 height=1 src=http://bcw.wretch.yahoo.com/b?s=2022137557&make=yahoo&type=wretch&t="+random_num+">");</script>
+</div>
+</body>
+</html>
+<script language=javascript>
+if(window.yzq_p==null)document.write("<scr"+"ipt language=javascript src=http://l.yimg.com/d/lib/bc/bcr_2.0.5.js></scr"+"ipt>");
+</script><script language=javascript>
+if(window.yzq_p)yzq_p('P=bZQyBsu8zFWA9_nWcua2aUJjjG0WWEm6Gy4AAp6B&T=144khmoog%2fX%3d1236933422%2fE%3d2022137557%2fR%3dtw_kwretch%2fK%3d5%2fV%3d1.1%2fW%3dJR%2fY%3dKIMO%2fF%3d450555029%2fI%3d1%2fS%3d1%2fJ%3dE1CCBCCB');
+if(window.yzq_s)yzq_s();
+</script><noscript><img width=1 height=1 alt="" src="http://row.bc.yahoo.com/b?P=bZQyBsu8zFWA9_nWcua2aUJjjG0WWEm6Gy4AAp6B&T=1494qbqpa%2fX%3d1236933422%2fE%3d2022137557%2fR%3dtw_kwretch%2fK%3d5%2fV%3d3.1%2fW%3dJR%2fY%3dKIMO%2fF%3d734721573%2fQ%3d-1%2fI%3d1%2fS%3d1%2fJ%3dE1CCBCCB"></noscript>
+<!-- w129.wretch.tp2.yahoo.net uncompressed/chunked Fri Mar 13 16:37:02 CST 2009 -->
